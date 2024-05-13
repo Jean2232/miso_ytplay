@@ -1,5 +1,5 @@
 # Módulo Yt_play
-
+Módulo desenvolvido para ser utilizado com o Baileys.
 ## Instalação:
 ```
 node install ytdl-core
